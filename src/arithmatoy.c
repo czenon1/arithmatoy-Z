@@ -11,11 +11,18 @@ const char *get_all_digits() { return "0123456789abcdefghijklmnopqrstuvwxyz"; }
 const size_t ALL_DIGIT_COUNT = 36;
 
 void arithmatoy_free(char *number) { free(number); }
+/*
+    AJOUTER LES FREEs     [_]
+    Check Dyn alloc size  [_]
+    Check Buff            [_]
 
+    Fix test              [x]
+    Test + log            [x]
+*/
 
 // ADD
 
-char *arithmatoy_add(unsigned int base, const char *lhs, const char *rhs){
+char *arithmatoy_add(unsigned int base, const char *lhs, const char *rhs) {
   if (VERBOSE) {
     fprintf(stderr, "add: entering function\n");
   }
@@ -28,7 +35,7 @@ char *arithmatoy_add(unsigned int base, const char *lhs, const char *rhs){
   const size_t rhs_len = strlen(rhs);
   const size_t result_len = (lhs_len > rhs_len ? lhs_len : rhs_len) + 2;
 
-  // 
+  //
   char *result = (char *)calloc(result_len, sizeof(char));
 
   unsigned int carry = 0;
@@ -43,7 +50,7 @@ char *arithmatoy_add(unsigned int base, const char *lhs, const char *rhs){
 
     ++lhs;
     ++rhs;
-}
+  }
 }
 
 // SUB !WAY
@@ -73,13 +80,12 @@ char *arithmatoy_sub(unsigned int base, const char *lhs, const char *rhs) {
 
     ++lhs;
     ++rhs;
-}
+  }
 }
 // MUL NG
 // !!!!! FILTER INPUT
 //        For my beloved Seg, M. Seg Fault...
 //        TEST FLOAT
-
 
 char *arithmatoy_mul(unsigned int base, const char *lhs, const char *rhs) {
   if (VERBOSE) {
@@ -89,13 +95,15 @@ char *arithmatoy_mul(unsigned int base, const char *lhs, const char *rhs) {
   // Initialize the result buffer with zeros
   const size_t lhs_len = strlen(lhs);
   const size_t rhs_len = strlen(rhs);
-  const size_t result_size = lhs_len + rhs_len + 1; // +1 for the potential carry
+  const size_t result_size =
+      lhs_len + rhs_len + 1; // +1 for the potential carry
   char *result = calloc(result_size, sizeof(char));
   if (!result) {
     debug_abort("Failed to allocate memory for result in arithmatoy_mul()\n");
   }
 
-  // Multiply each digit of rhs with the digits of lhs and add the result to the buffer
+  // Multiply each digit of rhs with the digits of lhs and add the result to the
+  // buffer
   for (size_t i = 0; i < rhs_len; ++i) {
     const unsigned int digit_rhs = get_digit_value(rhs[rhs_len - i - 1]);
     if (digit_rhs >= base) {
@@ -129,7 +137,7 @@ char *arithmatoy_mul(unsigned int base, const char *lhs, const char *rhs) {
   return result_to_return;
 }
 
-"""
+/*
 char *arithmatoy_mul(unsigned int base, const char *lhs, const char *rhs) {
   if (VERBOSE) {
     fprintf(stderr, "mul: entering function\n");
@@ -152,17 +160,18 @@ char *arithmatoy_mul(unsigned int base, const char *lhs, const char *rhs) {
 
     for (; j < rhs_len; ++j) {
       const unsigned int rhs_digit = get_digit_value(rhs[j]);
-      const unsigned int product = lhs_digit * rhs_digit + carry + get_digit_value(result[i+j]);
+      const unsigned int product = lhs_digit * rhs_digit + carry +
+get_digit_value(result[i+j]);
 
       carry = product / base;
       result[i+j] = to_digit(product % base); // check float
     }
     result[i+j] = to_digit(carry);
   }
-  // ... 
+  // ...
   return reverse((char *)drop_leading_zeros(result));
 }
-"""
+*/
 
 // Here are some utility functions that might be helpful to implement add, sub
 // and mul:

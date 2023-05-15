@@ -2,7 +2,7 @@ import math
 from random import Random
 
 import pytest
-from tests.tp import *
+from tp import *
 
 rng = Random(42)
 random_test_count = 1024
