@@ -15,7 +15,7 @@ void arithmatoy_free(char *number) { free(number); }
 
 // ADD
 
-char *arithmatoy_add(unsigned int base, const char *lhs, const char *rhs) {
+char *arithmatoy_add(unsigned int base, const char *lhs, const char *rhs){
   if (VERBOSE) {
     fprintf(stderr, "add: entering function\n");
   }
@@ -44,7 +44,7 @@ char *arithmatoy_add(unsigned int base, const char *lhs, const char *rhs) {
     ++lhs;
     ++rhs;
 }
-
+}
 
 // SUB !WAY
 
@@ -74,7 +74,7 @@ char *arithmatoy_sub(unsigned int base, const char *lhs, const char *rhs) {
     ++lhs;
     ++rhs;
 }
-
+}
 // MUL NG
 // !!!!! FILTER INPUT
 //        For my beloved Seg, M. Seg Fault...
