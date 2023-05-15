@@ -1,0 +1,18 @@
+{
+  "[c,cpp]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "xaver.clang-format"
+  },
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+
+  "cmake.configureOnOpen": false,
+  "cmake.buildDirectory": "${workspaceFolder}/.local/cmake/build",
+  "cmake.configureSettings": {
+    "CMAKE_BUILD_TYPE": "Debug",
+    "CMAKE_TOOLCHAIN_FILE": "${workspaceFolder}/.local/vcpkg/scripts/buildsystems/vcpkg.cmake",
+    "BUILD_TESTING": "1"
+  },
+  "cmake.debugConfig": {
+    "console": "integratedTerminal"
+  }
+}

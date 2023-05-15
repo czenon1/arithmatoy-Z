@@ -1,0 +1,119 @@
+add 22 2i6c2l386k1db96a14f721hj0ji0f9ckc1kg67cbhej40gj0f03dh878lj 14hc63703iea6ce7a9828lacg27hg1gik231h84h8bd29ij31kb34h48be --verbose
+2i6c2l386k1db96a14f721hj0ji0f9ckc1kg67cbhej40gj0f03dh878lj + 14hc63703iea6ce7a9828lacg27hg1gik231h84h8bd29ij31kb34h48be = 412292a8agg1hlkhbe19b169h03i9b7ha41i1fh744a6adg3gkeh03bhbb
+add: entering function
+add: digit j digit e carry 0
+add: result: digit b carry 1
+add: digit l digit b carry 1
+add: result: digit b carry 1
+add: digit 8 digit 8 carry 1
+add: result: digit h carry 0
+add: digit 7 digit 4 carry 0
+add: result: digit b carry 0
+add: digit 8 digit h carry 0
+add: result: digit 3 carry 1
+add: digit h digit 4 carry 1
+add: result: digit 0 carry 1
+add: digit d digit 3 carry 1
+add: result: digit h carry 0
+add: digit 3 digit b carry 0
+add: result: digit e carry 0
+add: digit 0 digit k carry 0
+add: result: digit k carry 0
+add: digit f digit 1 carry 0
+add: result: digit g carry 0
+add: digit 0 digit 3 carry 0
+add: result: digit 3 carry 0
+add: digit j digit j carry 0
+add: result: digit g carry 1
+add: digit g digit i carry 1
+add: result: digit d carry 1
+add: digit 0 digit 9 carry 1
+add: result: digit a carry 0
+add: digit 4 digit 2 carry 0
+add: result: digit 6 carry 0
+add: digit j digit d carry 0
+add: result: digit a carry 1
+add: digit e digit b carry 1
+add: result: digit 4 carry 1
+add: digit h digit 8 carry 1
+add: result: digit 4 carry 1
+add: digit b digit h carry 1
+add: result: digit 7 carry 1
+add: digit c digit 4 carry 1
+add: result: digit h carry 0
+add: digit 7 digit 8 carry 0
+add: result: digit f carry 0
+add: digit 6 digit h carry 0
+add: result: digit 1 carry 1
+add: digit g digit 1 carry 1
+add: result: digit i carry 0
+add: digit k digit 3 carry 0
+add: result: digit 1 carry 1
+add: digit 1 digit 2 carry 1
+add: result: digit 4 carry 0
+add: digit c digit k carry 0
+add: result: digit a carry 1
+add: digit k digit i carry 1
+add: result: digit h carry 1
+add: digit c digit g carry 1
+add: result: digit 7 carry 1
+add: digit 9 digit 1 carry 1
+add: result: digit b carry 0
+add: digit f digit g carry 0
+add: result: digit 9 carry 1
+add: digit 0 digit h carry 1
+add: result: digit i carry 0
+add: digit i digit 7 carry 0
+add: result: digit 3 carry 1
+add: digit j digit 2 carry 1
+add: result: digit 0 carry 1
+add: digit 0 digit g carry 1
+add: result: digit h carry 0
+add: digit j digit c carry 0
+add: result: digit 9 carry 1
+add: digit h digit a carry 1
+add: result: digit 6 carry 1
+add: digit 1 digit l carry 1
+add: result: digit 1 carry 1
+add: digit 2 digit 8 carry 1
+add: result: digit b carry 0
+add: digit 7 digit 2 carry 0
+add: result: digit 9 carry 0
+add: digit f digit 8 carry 0
+add: result: digit 1 carry 1
+add: digit 4 digit 9 carry 1
+add: result: digit e carry 0
+add: digit 1 digit a carry 0
+add: result: digit b carry 0
+add: digit a digit 7 carry 0
+add: result: digit h carry 0
+add: digit 6 digit e carry 0
+add: result: digit k carry 0
+add: digit 9 digit c carry 0
+add: result: digit l carry 0
+add: digit b digit 6 carry 0
+add: result: digit h carry 0
+add: digit d digit a carry 0
+add: result: digit 1 carry 1
+add: digit 1 digit e carry 1
+add: result: digit g carry 0
+add: digit k digit i carry 0
+add: result: digit g carry 1
+add: digit 6 digit 3 carry 1
+add: result: digit a carry 0
+add: digit 8 digit 0 carry 0
+add: result: digit 8 carry 0
+add: digit 3 digit 7 carry 0
+add: result: digit a carry 0
+add: digit l digit 3 carry 0
+add: result: digit 2 carry 1
+add: digit 2 digit 6 carry 1
+add: result: digit 9 carry 0
+add: digit c digit c carry 0
+add: result: digit 2 carry 1
+add: digit 6 digit h carry 1
+add: result: digit 2 carry 1
+add: digit i digit 4 carry 1
+add: result: digit 1 carry 1
+add: digit 2 digit 1 carry 1
+add: result: digit 4 carry 0

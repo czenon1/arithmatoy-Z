@@ -1,0 +1,127 @@
+add 18 fg6ag5ebe57bb9ghh58fga4hh992h678e0289e75heaf8492783dbfd3384fg 31b1fdc509ha3b00g7h7cabfab5d050a475e98h8gg8910ch8536bgd75ee161 --verbose
+fg6ag5ebe57bb9ghh58fga4hh992h678e0289e75heaf8492783dbfd3384fg + 31b1fdc509ha3b00g7h7cabfab5d050a475e98h8gg8910ch8536bgd75ee161 = 3h988c01c64hf49hg74ga942aaf4346hd35h00dg4g51g8h8acba7ab290463h
+add: entering function
+add: digit 1 digit g carry 0
+add: result: digit h carry 0
+add: digit 6 digit f carry 0
+add: result: digit 3 carry 1
+add: digit 1 digit 4 carry 1
+add: result: digit 6 carry 0
+add: digit e digit 8 carry 0
+add: result: digit 4 carry 1
+add: digit e digit 3 carry 1
+add: result: digit 0 carry 1
+add: digit 5 digit 3 carry 1
+add: result: digit 9 carry 0
+add: digit 7 digit d carry 0
+add: result: digit 2 carry 1
+add: digit d digit f carry 1
+add: result: digit b carry 1
+add: digit g digit b carry 1
+add: result: digit a carry 1
+add: digit b digit d carry 1
+add: result: digit 7 carry 1
+add: digit 6 digit 3 carry 1
+add: result: digit a carry 0
+add: digit 3 digit 8 carry 0
+add: result: digit b carry 0
+add: digit 5 digit 7 carry 0
+add: result: digit c carry 0
+add: digit 8 digit 2 carry 0
+add: result: digit a carry 0
+add: digit h digit 9 carry 0
+add: result: digit 8 carry 1
+add: digit c digit 4 carry 1
+add: result: digit h carry 0
+add: digit 0 digit 8 carry 0
+add: result: digit 8 carry 0
+add: digit 1 digit f carry 0
+add: result: digit g carry 0
+add: digit 9 digit a carry 0
+add: result: digit 1 carry 1
+add: digit 8 digit e carry 1
+add: result: digit 5 carry 1
+add: digit g digit h carry 1
+add: result: digit g carry 1
+add: digit g digit 5 carry 1
+add: result: digit 4 carry 1
+add: digit 8 digit 7 carry 1
+add: result: digit g carry 0
+add: digit h digit e carry 0
+add: result: digit d carry 1
+add: digit 8 digit 9 carry 1
+add: result: digit 0 carry 1
+add: digit 9 digit 8 carry 1
+add: result: digit 0 carry 1
+add: digit e digit 2 carry 1
+add: result: digit h carry 0
+add: digit 5 digit 0 carry 0
+add: result: digit 5 carry 0
+add: digit 7 digit e carry 0
+add: result: digit 3 carry 1
+add: digit 4 digit 8 carry 1
+add: result: digit d carry 0
+add: digit a digit 7 carry 0
+add: result: digit h carry 0
+add: digit 0 digit 6 carry 0
+add: result: digit 6 carry 0
+add: digit 5 digit h carry 0
+add: result: digit 4 carry 1
+add: digit 0 digit 2 carry 1
+add: result: digit 3 carry 0
+add: digit d digit 9 carry 0
+add: result: digit 4 carry 1
+add: digit 5 digit 9 carry 1
+add: result: digit f carry 0
+add: digit b digit h carry 0
+add: result: digit a carry 1
+add: digit a digit h carry 1
+add: result: digit a carry 1
+add: digit f digit 4 carry 1
+add: result: digit 2 carry 1
+add: digit b digit a carry 1
+add: result: digit 4 carry 1
+add: digit a digit g carry 1
+add: result: digit 9 carry 1
+add: digit c digit f carry 1
+add: result: digit a carry 1
+add: digit 7 digit 8 carry 1
+add: result: digit g carry 0
+add: digit h digit 5 carry 0
+add: result: digit 4 carry 1
+add: digit 7 digit h carry 1
+add: result: digit 7 carry 1
+add: digit g digit h carry 1
+add: result: digit g carry 1
+add: digit 0 digit g carry 1
+add: result: digit h carry 0
+add: digit 0 digit 9 carry 0
+add: result: digit 9 carry 0
+add: digit b digit b carry 0
+add: result: digit 4 carry 1
+add: digit 3 digit b carry 1
+add: result: digit f carry 0
+add: digit a digit 7 carry 0
+add: result: digit h carry 0
+add: digit h digit 5 carry 0
+add: result: digit 4 carry 1
+add: digit 9 digit e carry 1
+add: result: digit 6 carry 1
+add: digit 0 digit b carry 1
+add: result: digit c carry 0
+add: digit 5 digit e carry 0
+add: result: digit 1 carry 1
+add: digit c digit 5 carry 1
+add: result: digit 0 carry 1
+add: digit d digit g carry 1
+add: result: digit c carry 1
+add: digit f digit a carry 1
+add: result: digit 8 carry 1
+add: digit 1 digit 6 carry 1
+add: result: digit 8 carry 0
+add: digit b digit g carry 0
+add: result: digit 9 carry 1
+add: digit 1 digit f carry 1
+add: result: digit h carry 0
+add: digit 3 digit 0 carry 0
+add: result: digit 3 carry 0

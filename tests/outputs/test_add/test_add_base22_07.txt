@@ -1,0 +1,119 @@
+add 22 1a81b4e440647i3da01c3ce55iljjfcbd97a9599k9db5l07738ejk08ji 6e70h271l3g3141kgfejdckk8k5h803cef343lhj3l4628c3k233e529e --verbose
+1a81b4e440647i3da01c3ce55iljjfcbd97a9599k9db5l07738ejk08ji + 6e70h271l3g3141kgfejdckk8k5h803cef343lhj3l4628c3k233e529e = 1h08blgb5l9kaj7f8gh5145445k3f1cf420dd995hdcfc18jb1ai1c5b7a
+add: entering function
+add: digit i digit e carry 0
+add: result: digit a carry 1
+add: digit j digit 9 carry 1
+add: result: digit 7 carry 1
+add: digit 8 digit 2 carry 1
+add: result: digit b carry 0
+add: digit 0 digit 5 carry 0
+add: result: digit 5 carry 0
+add: digit k digit e carry 0
+add: result: digit c carry 1
+add: digit j digit 3 carry 1
+add: result: digit 1 carry 1
+add: digit e digit 3 carry 1
+add: result: digit i carry 0
+add: digit 8 digit 2 carry 0
+add: result: digit a carry 0
+add: digit 3 digit k carry 0
+add: result: digit 1 carry 1
+add: digit 7 digit 3 carry 1
+add: result: digit b carry 0
+add: digit 7 digit c carry 0
+add: result: digit j carry 0
+add: digit 0 digit 8 carry 0
+add: result: digit 8 carry 0
+add: digit l digit 2 carry 0
+add: result: digit 1 carry 1
+add: digit 5 digit 6 carry 1
+add: result: digit c carry 0
+add: digit b digit 4 carry 0
+add: result: digit f carry 0
+add: digit d digit l carry 0
+add: result: digit c carry 1
+add: digit 9 digit 3 carry 1
+add: result: digit d carry 0
+add: digit k digit j carry 0
+add: result: digit h carry 1
+add: digit 9 digit h carry 1
+add: result: digit 5 carry 1
+add: digit 9 digit l carry 1
+add: result: digit 9 carry 1
+add: digit 5 digit 3 carry 1
+add: result: digit 9 carry 0
+add: digit 9 digit 4 carry 0
+add: result: digit d carry 0
+add: digit a digit 3 carry 0
+add: result: digit d carry 0
+add: digit 7 digit f carry 0
+add: result: digit 0 carry 1
+add: digit 9 digit e carry 1
+add: result: digit 2 carry 1
+add: digit d digit c carry 1
+add: result: digit 4 carry 1
+add: digit b digit 3 carry 1
+add: result: digit f carry 0
+add: digit c digit 0 carry 0
+add: result: digit c carry 0
+add: digit f digit 8 carry 0
+add: result: digit 1 carry 1
+add: digit j digit h carry 1
+add: result: digit f carry 1
+add: digit j digit 5 carry 1
+add: result: digit 3 carry 1
+add: digit l digit k carry 1
+add: result: digit k carry 1
+add: digit i digit 8 carry 1
+add: result: digit 5 carry 1
+add: digit 5 digit k carry 1
+add: result: digit 4 carry 1
+add: digit 5 digit k carry 1
+add: result: digit 4 carry 1
+add: digit e digit c carry 1
+add: result: digit 5 carry 1
+add: digit c digit d carry 1
+add: result: digit 4 carry 1
+add: digit 3 digit j carry 1
+add: result: digit 1 carry 1
+add: digit c digit e carry 1
+add: result: digit 5 carry 1
+add: digit 1 digit f carry 1
+add: result: digit h carry 0
+add: digit 0 digit g carry 0
+add: result: digit g carry 0
+add: digit a digit k carry 0
+add: result: digit 8 carry 1
+add: digit d digit 1 carry 1
+add: result: digit f carry 0
+add: digit 3 digit 4 carry 0
+add: result: digit 7 carry 0
+add: digit i digit 1 carry 0
+add: result: digit j carry 0
+add: digit 7 digit 3 carry 0
+add: result: digit a carry 0
+add: digit 4 digit g carry 0
+add: result: digit k carry 0
+add: digit 6 digit 3 carry 0
+add: result: digit 9 carry 0
+add: digit 0 digit l carry 0
+add: result: digit l carry 0
+add: digit 4 digit 1 carry 0
+add: result: digit 5 carry 0
+add: digit 4 digit 7 carry 0
+add: result: digit b carry 0
+add: digit e digit 2 carry 0
+add: result: digit g carry 0
+add: digit 4 digit h carry 0
+add: result: digit l carry 0
+add: digit b digit 0 carry 0
+add: result: digit b carry 0
+add: digit 1 digit 7 carry 0
+add: result: digit 8 carry 0
+add: digit 8 digit e carry 0
+add: result: digit 0 carry 1
+add: digit a digit 6 carry 1
+add: result: digit h carry 0
+add: digit 1 digit 0 carry 0
+add: result: digit 1 carry 0

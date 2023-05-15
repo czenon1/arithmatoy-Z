@@ -1,0 +1,151 @@
+sub 11 395619a8412978487492366aa1780229183853586411059264639285a36447107911502059 2a00a3568399043201434849a872607975485018002610397875a95030284a365a9a76a340 --verbose
+395619a8412978487492366aa1780229183853586411059264639285a36447107911502059 - 2a00a3568399043201434849a872607975485018002610397875a95030284a365a9a76a340 = a5526516840741673499920a405515a52a003406395a553969894357336a7851921842819
+sub: entering function
+sub: digit 9 digit 0 carry 0
+sub: result: digit 9 carry 0
+sub: digit 5 digit 4 carry 0
+sub: result: digit 1 carry 0
+sub: digit 0 digit 3 carry 0
+sub: result: digit 8 carry 1
+sub: digit 2 digit a carry 1
+sub: result: digit 2 carry 1
+sub: digit 0 digit 6 carry 1
+sub: result: digit 4 carry 1
+sub: digit 5 digit 7 carry 1
+sub: result: digit 8 carry 1
+sub: digit 1 digit a carry 1
+sub: result: digit 1 carry 1
+sub: digit 1 digit 9 carry 1
+sub: result: digit 2 carry 1
+sub: digit 9 digit a carry 1
+sub: result: digit 9 carry 1
+sub: digit 7 digit 5 carry 1
+sub: result: digit 1 carry 0
+sub: digit 0 digit 6 carry 0
+sub: result: digit 5 carry 1
+sub: digit 1 digit 3 carry 1
+sub: result: digit 8 carry 1
+sub: digit 7 digit a carry 1
+sub: result: digit 7 carry 1
+sub: digit 4 digit 4 carry 1
+sub: result: digit a carry 1
+sub: digit 4 digit 8 carry 1
+sub: result: digit 6 carry 1
+sub: digit 6 digit 2 carry 1
+sub: result: digit 3 carry 0
+sub: digit 3 digit 0 carry 0
+sub: result: digit 3 carry 0
+sub: digit a digit 3 carry 0
+sub: result: digit 7 carry 0
+sub: digit 5 digit 0 carry 0
+sub: result: digit 5 carry 0
+sub: digit 8 digit 5 carry 0
+sub: result: digit 3 carry 0
+sub: digit 2 digit 9 carry 0
+sub: result: digit 4 carry 1
+sub: digit 9 digit a carry 1
+sub: result: digit 9 carry 1
+sub: digit 3 digit 5 carry 1
+sub: result: digit 8 carry 1
+sub: digit 6 digit 7 carry 1
+sub: result: digit 9 carry 1
+sub: digit 4 digit 8 carry 1
+sub: result: digit 6 carry 1
+sub: digit 6 digit 7 carry 1
+sub: result: digit 9 carry 1
+sub: digit 2 digit 9 carry 1
+sub: result: digit 3 carry 1
+sub: digit 9 digit 3 carry 1
+sub: result: digit 5 carry 0
+sub: digit 5 digit 0 carry 0
+sub: result: digit 5 carry 0
+sub: digit 0 digit 1 carry 0
+sub: result: digit a carry 1
+sub: digit 1 digit 6 carry 1
+sub: result: digit 5 carry 1
+sub: digit 1 digit 2 carry 1
+sub: result: digit 9 carry 1
+sub: digit 4 digit 0 carry 1
+sub: result: digit 3 carry 0
+sub: digit 6 digit 0 carry 0
+sub: result: digit 6 carry 0
+sub: digit 8 digit 8 carry 0
+sub: result: digit 0 carry 0
+sub: digit 5 digit 1 carry 0
+sub: result: digit 4 carry 0
+sub: digit 3 digit 0 carry 0
+sub: result: digit 3 carry 0
+sub: digit 5 digit 5 carry 0
+sub: result: digit 0 carry 0
+sub: digit 8 digit 8 carry 0
+sub: result: digit 0 carry 0
+sub: digit 3 digit 4 carry 0
+sub: result: digit a carry 1
+sub: digit 8 digit 5 carry 1
+sub: result: digit 2 carry 0
+sub: digit 1 digit 7 carry 0
+sub: result: digit 5 carry 1
+sub: digit 9 digit 9 carry 1
+sub: result: digit a carry 1
+sub: digit 2 digit 7 carry 1
+sub: result: digit 5 carry 1
+sub: digit 2 digit 0 carry 1
+sub: result: digit 1 carry 0
+sub: digit 0 digit 6 carry 0
+sub: result: digit 5 carry 1
+sub: digit 8 digit 2 carry 1
+sub: result: digit 5 carry 0
+sub: digit 7 digit 7 carry 0
+sub: result: digit 0 carry 0
+sub: digit 1 digit 8 carry 0
+sub: result: digit 4 carry 1
+sub: digit a digit a carry 1
+sub: result: digit a carry 1
+sub: digit a digit 9 carry 1
+sub: result: digit 0 carry 0
+sub: digit 6 digit 4 carry 0
+sub: result: digit 2 carry 0
+sub: digit 6 digit 8 carry 0
+sub: result: digit 9 carry 1
+sub: digit 3 digit 4 carry 1
+sub: result: digit 9 carry 1
+sub: digit 2 digit 3 carry 1
+sub: result: digit 9 carry 1
+sub: digit 9 digit 4 carry 1
+sub: result: digit 4 carry 0
+sub: digit 4 digit 1 carry 0
+sub: result: digit 3 carry 0
+sub: digit 7 digit 0 carry 0
+sub: result: digit 7 carry 0
+sub: digit 8 digit 2 carry 0
+sub: result: digit 6 carry 0
+sub: digit 4 digit 3 carry 0
+sub: result: digit 1 carry 0
+sub: digit 8 digit 4 carry 0
+sub: result: digit 4 carry 0
+sub: digit 7 digit 0 carry 0
+sub: result: digit 7 carry 0
+sub: digit 9 digit 9 carry 0
+sub: result: digit 0 carry 0
+sub: digit 2 digit 9 carry 0
+sub: result: digit 4 carry 1
+sub: digit 1 digit 3 carry 1
+sub: result: digit 8 carry 1
+sub: digit 4 digit 8 carry 1
+sub: result: digit 6 carry 1
+sub: digit 8 digit 6 carry 1
+sub: result: digit 1 carry 0
+sub: digit a digit 5 carry 0
+sub: result: digit 5 carry 0
+sub: digit 9 digit 3 carry 0
+sub: result: digit 6 carry 0
+sub: digit 1 digit a carry 0
+sub: result: digit 2 carry 1
+sub: digit 6 digit 0 carry 1
+sub: result: digit 5 carry 0
+sub: digit 5 digit 0 carry 0
+sub: result: digit 5 carry 0
+sub: digit 9 digit a carry 0
+sub: result: digit a carry 1
+sub: digit 3 digit 2 carry 1
+sub: result: digit 0 carry 0

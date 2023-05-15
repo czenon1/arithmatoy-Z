@@ -1,0 +1,135 @@
+add 15 886d2949a443d1bb97cb024dbba4578baa2329993a128038765012818035dd52d 342b6de2145aa6bec6c463aac826156bc2b3926b61679bddcadc40ce8a6b522422 --verbose
+886d2949a443d1bb97cb024dbba4578baa2329993a128038765012818035dd52d + 342b6de2145aa6bec6c463aac826156bc2b3926b61679bddcadc40ce8a6b522422 = 3cb35186ae9ee4db915223d0b4e15ae58d65c5160518c4e263524207a36eb10950
+add: entering function
+add: digit 2 digit d carry 0
+add: result: digit 0 carry 1
+add: digit 2 digit 2 carry 1
+add: result: digit 5 carry 0
+add: digit 4 digit 5 carry 0
+add: result: digit 9 carry 0
+add: digit 2 digit d carry 0
+add: result: digit 0 carry 1
+add: digit 2 digit d carry 1
+add: result: digit 1 carry 1
+add: digit 5 digit 5 carry 1
+add: result: digit b carry 0
+add: digit b digit 3 carry 0
+add: result: digit e carry 0
+add: digit 6 digit 0 carry 0
+add: result: digit 6 carry 0
+add: digit a digit 8 carry 0
+add: result: digit 3 carry 1
+add: digit 8 digit 1 carry 1
+add: result: digit a carry 0
+add: digit e digit 8 carry 0
+add: result: digit 7 carry 1
+add: digit c digit 2 carry 1
+add: result: digit 0 carry 1
+add: digit 0 digit 1 carry 1
+add: result: digit 2 carry 0
+add: digit 4 digit 0 carry 0
+add: result: digit 4 carry 0
+add: digit c digit 5 carry 0
+add: result: digit 2 carry 1
+add: digit d digit 6 carry 1
+add: result: digit 5 carry 1
+add: digit a digit 7 carry 1
+add: result: digit 3 carry 1
+add: digit c digit 8 carry 1
+add: result: digit 6 carry 1
+add: digit d digit 3 carry 1
+add: result: digit 2 carry 1
+add: digit d digit 0 carry 1
+add: result: digit e carry 0
+add: digit b digit 8 carry 0
+add: result: digit 4 carry 1
+add: digit 9 digit 2 carry 1
+add: result: digit c carry 0
+add: digit 7 digit 1 carry 0
+add: result: digit 8 carry 0
+add: digit 6 digit a carry 0
+add: result: digit 1 carry 1
+add: digit 1 digit 3 carry 1
+add: result: digit 5 carry 0
+add: digit 6 digit 9 carry 0
+add: result: digit 0 carry 1
+add: digit b digit 9 carry 1
+add: result: digit 6 carry 1
+add: digit 6 digit 9 carry 1
+add: result: digit 1 carry 1
+add: digit 2 digit 2 carry 1
+add: result: digit 5 carry 0
+add: digit 9 digit 3 carry 0
+add: result: digit c carry 0
+add: digit 3 digit 2 carry 0
+add: result: digit 5 carry 0
+add: digit b digit a carry 0
+add: result: digit 6 carry 1
+add: digit 2 digit a carry 1
+add: result: digit d carry 0
+add: digit c digit b carry 0
+add: result: digit 8 carry 1
+add: digit b digit 8 carry 1
+add: result: digit 5 carry 1
+add: digit 6 digit 7 carry 1
+add: result: digit e carry 0
+add: digit 5 digit 5 carry 0
+add: result: digit a carry 0
+add: digit 1 digit 4 carry 0
+add: result: digit 5 carry 0
+add: digit 6 digit a carry 0
+add: result: digit 1 carry 1
+add: digit 2 digit b carry 1
+add: result: digit e carry 0
+add: digit 8 digit b carry 0
+add: result: digit 4 carry 1
+add: digit c digit d carry 1
+add: result: digit b carry 1
+add: digit a digit 4 carry 1
+add: result: digit 0 carry 1
+add: digit a digit 2 carry 1
+add: result: digit d carry 0
+add: digit 3 digit 0 carry 0
+add: result: digit 3 carry 0
+add: digit 6 digit b carry 0
+add: result: digit 2 carry 1
+add: digit 4 digit c carry 1
+add: result: digit 2 carry 1
+add: digit c digit 7 carry 1
+add: result: digit 5 carry 1
+add: digit 6 digit 9 carry 1
+add: result: digit 1 carry 1
+add: digit c digit b carry 1
+add: result: digit 9 carry 1
+add: digit e digit b carry 1
+add: result: digit b carry 1
+add: digit b digit 1 carry 1
+add: result: digit d carry 0
+add: digit 6 digit d carry 0
+add: result: digit 4 carry 1
+add: digit a digit 3 carry 1
+add: result: digit e carry 0
+add: digit a digit 4 carry 0
+add: result: digit e carry 0
+add: digit 5 digit 4 carry 0
+add: result: digit 9 carry 0
+add: digit 4 digit a carry 0
+add: result: digit e carry 0
+add: digit 1 digit 9 carry 0
+add: result: digit a carry 0
+add: digit 2 digit 4 carry 0
+add: result: digit 6 carry 0
+add: digit e digit 9 carry 0
+add: result: digit 8 carry 1
+add: digit d digit 2 carry 1
+add: result: digit 1 carry 1
+add: digit 6 digit d carry 1
+add: result: digit 5 carry 1
+add: digit b digit 6 carry 1
+add: result: digit 3 carry 1
+add: digit 2 digit 8 carry 1
+add: result: digit b carry 0
+add: digit 4 digit 8 carry 0
+add: result: digit c carry 0
+add: digit 3 digit 0 carry 0
+add: result: digit 3 carry 0

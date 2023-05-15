@@ -1,0 +1,143 @@
+sub 13 13a33662c413514706b37bb939b61184b88c2a5bb6456a1604789345878880441b2c61 1ba491b89523a3ab29cabb160b933a3670b28a9610676c028ca8c66498160cc558304 --verbose
+13a33662c413514706b37bb939b61184b88c2a5bb6456a1604789345878880441b2c61 - 1ba491b89523a3ab29cabb160b933a3670b28a9610676c028ca8c66498160cc558304 = 11b5ba44379114092413a007a8c9aab151810182553bc325a87b03ac3b071c4495795a
+sub: entering function
+sub: digit 1 digit 4 carry 0
+sub: result: digit a carry 1
+sub: digit 6 digit 0 carry 1
+sub: result: digit 5 carry 0
+sub: digit c digit 3 carry 0
+sub: result: digit 9 carry 0
+sub: digit 2 digit 8 carry 0
+sub: result: digit 7 carry 1
+sub: digit b digit 5 carry 1
+sub: result: digit 5 carry 0
+sub: digit 1 digit 5 carry 0
+sub: result: digit 9 carry 1
+sub: digit 4 digit c carry 1
+sub: result: digit 4 carry 1
+sub: digit 4 digit c carry 1
+sub: result: digit 4 carry 1
+sub: digit 0 digit 0 carry 1
+sub: result: digit c carry 1
+sub: digit 8 digit 6 carry 1
+sub: result: digit 1 carry 0
+sub: digit 8 digit 1 carry 0
+sub: result: digit 7 carry 0
+sub: digit 8 digit 8 carry 0
+sub: result: digit 0 carry 0
+sub: digit 7 digit 9 carry 0
+sub: result: digit b carry 1
+sub: digit 8 digit 4 carry 1
+sub: result: digit 3 carry 0
+sub: digit 5 digit 6 carry 0
+sub: result: digit c carry 1
+sub: digit 4 digit 6 carry 1
+sub: result: digit a carry 1
+sub: digit 3 digit c carry 1
+sub: result: digit 3 carry 1
+sub: digit 9 digit 8 carry 1
+sub: result: digit 0 carry 0
+sub: digit 8 digit a carry 0
+sub: result: digit b carry 1
+sub: digit 7 digit c carry 1
+sub: result: digit 7 carry 1
+sub: digit 4 digit 8 carry 1
+sub: result: digit 8 carry 1
+sub: digit 0 digit 2 carry 1
+sub: result: digit a carry 1
+sub: digit 6 digit 0 carry 1
+sub: result: digit 5 carry 0
+sub: digit 1 digit c carry 0
+sub: result: digit 2 carry 1
+sub: digit a digit 6 carry 1
+sub: result: digit 3 carry 0
+sub: digit 6 digit 7 carry 0
+sub: result: digit c carry 1
+sub: digit 5 digit 6 carry 1
+sub: result: digit b carry 1
+sub: digit 4 digit 0 carry 1
+sub: result: digit 3 carry 0
+sub: digit 6 digit 1 carry 0
+sub: result: digit 5 carry 0
+sub: digit b digit 6 carry 0
+sub: result: digit 5 carry 0
+sub: digit b digit 9 carry 0
+sub: result: digit 2 carry 0
+sub: digit 5 digit a carry 0
+sub: result: digit 8 carry 1
+sub: digit a digit 8 carry 1
+sub: result: digit 1 carry 0
+sub: digit 2 digit 2 carry 0
+sub: result: digit 0 carry 0
+sub: digit c digit b carry 0
+sub: result: digit 1 carry 0
+sub: digit 8 digit 0 carry 0
+sub: result: digit 8 carry 0
+sub: digit 8 digit 7 carry 0
+sub: result: digit 1 carry 0
+sub: digit b digit 6 carry 0
+sub: result: digit 5 carry 0
+sub: digit 4 digit 3 carry 0
+sub: result: digit 1 carry 0
+sub: digit 8 digit a carry 0
+sub: result: digit b carry 1
+sub: digit 1 digit 3 carry 1
+sub: result: digit a carry 1
+sub: digit 1 digit 3 carry 1
+sub: result: digit a carry 1
+sub: digit 6 digit 9 carry 1
+sub: result: digit 9 carry 1
+sub: digit b digit b carry 1
+sub: result: digit c carry 1
+sub: digit 9 digit 0 carry 1
+sub: result: digit 8 carry 0
+sub: digit 3 digit 6 carry 0
+sub: result: digit a carry 1
+sub: digit 9 digit 1 carry 1
+sub: result: digit 7 carry 0
+sub: digit b digit b carry 0
+sub: result: digit 0 carry 0
+sub: digit b digit b carry 0
+sub: result: digit 0 carry 0
+sub: digit 7 digit a carry 0
+sub: result: digit a carry 1
+sub: digit 3 digit c carry 1
+sub: result: digit 3 carry 1
+sub: digit b digit 9 carry 1
+sub: result: digit 1 carry 0
+sub: digit 6 digit 2 carry 0
+sub: result: digit 4 carry 0
+sub: digit 0 digit b carry 0
+sub: result: digit 2 carry 1
+sub: digit 7 digit a carry 1
+sub: result: digit 9 carry 1
+sub: digit 4 digit 3 carry 1
+sub: result: digit 0 carry 0
+sub: digit 1 digit a carry 0
+sub: result: digit 4 carry 1
+sub: digit 5 digit 3 carry 1
+sub: result: digit 1 carry 0
+sub: digit 3 digit 2 carry 0
+sub: result: digit 1 carry 0
+sub: digit 1 digit 5 carry 0
+sub: result: digit 9 carry 1
+sub: digit 4 digit 9 carry 1
+sub: result: digit 7 carry 1
+sub: digit c digit 8 carry 1
+sub: result: digit 3 carry 0
+sub: digit 2 digit b carry 0
+sub: result: digit 4 carry 1
+sub: digit 6 digit 1 carry 1
+sub: result: digit 4 carry 0
+sub: digit 6 digit 9 carry 0
+sub: result: digit a carry 1
+sub: digit 3 digit 4 carry 1
+sub: result: digit b carry 1
+sub: digit 3 digit a carry 1
+sub: result: digit 5 carry 1
+sub: digit a digit b carry 1
+sub: result: digit b carry 1
+sub: digit 3 digit 1 carry 1
+sub: result: digit 1 carry 0
+sub: digit 1 digit 0 carry 0
+sub: result: digit 1 carry 0

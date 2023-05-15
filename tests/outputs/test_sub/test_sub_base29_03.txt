@@ -1,0 +1,109 @@
+sub 29 5kg93i8cl4l7bkr0pg9nf8di29a85j7j70237b3l60br6ekg3oco9 5b19f38k7bmlpnk69jg3fhkp86i3pq09q931ni9ebi2g9e72lgark --verbose
+5kg93i8cl4l7bkr0pg9nf8di29a85j7j70237b3l60br6ekg3oco9 - 5b19f38k7bmlpnk69jg3fhkp86i3pq09q931ni9ebi2g9e72lgark = 9eshesldlreeq6nfpmjsjlln2l48m799js1cln6nb9aq0ddb81pi
+sub: entering function
+sub: digit 9 digit k carry 0
+sub: result: digit i carry 1
+sub: digit o digit r carry 1
+sub: result: digit p carry 1
+sub: digit c digit a carry 1
+sub: result: digit 1 carry 0
+sub: digit o digit g carry 0
+sub: result: digit 8 carry 0
+sub: digit 3 digit l carry 0
+sub: result: digit b carry 1
+sub: digit g digit 2 carry 1
+sub: result: digit d carry 0
+sub: digit k digit 7 carry 0
+sub: result: digit d carry 0
+sub: digit e digit e carry 0
+sub: result: digit 0 carry 0
+sub: digit 6 digit 9 carry 0
+sub: result: digit q carry 1
+sub: digit r digit g carry 1
+sub: result: digit a carry 0
+sub: digit b digit 2 carry 0
+sub: result: digit 9 carry 0
+sub: digit 0 digit i carry 0
+sub: result: digit b carry 1
+sub: digit 6 digit b carry 1
+sub: result: digit n carry 1
+sub: digit l digit e carry 1
+sub: result: digit 6 carry 0
+sub: digit 3 digit 9 carry 0
+sub: result: digit n carry 1
+sub: digit b digit i carry 1
+sub: result: digit l carry 1
+sub: digit 7 digit n carry 1
+sub: result: digit c carry 1
+sub: digit 3 digit 1 carry 1
+sub: result: digit 1 carry 0
+sub: digit 2 digit 3 carry 0
+sub: result: digit s carry 1
+sub: digit 0 digit 9 carry 1
+sub: result: digit j carry 1
+sub: digit 7 digit q carry 1
+sub: result: digit 9 carry 1
+sub: digit j digit 9 carry 1
+sub: result: digit 9 carry 0
+sub: digit 7 digit 0 carry 0
+sub: result: digit 7 carry 0
+sub: digit j digit q carry 0
+sub: result: digit m carry 1
+sub: digit 5 digit p carry 1
+sub: result: digit 8 carry 1
+sub: digit 8 digit 3 carry 1
+sub: result: digit 4 carry 0
+sub: digit a digit i carry 0
+sub: result: digit l carry 1
+sub: digit 9 digit 6 carry 1
+sub: result: digit 2 carry 0
+sub: digit 2 digit 8 carry 0
+sub: result: digit n carry 1
+sub: digit i digit p carry 1
+sub: result: digit l carry 1
+sub: digit d digit k carry 1
+sub: result: digit l carry 1
+sub: digit 8 digit h carry 1
+sub: result: digit j carry 1
+sub: digit f digit f carry 1
+sub: result: digit s carry 1
+sub: digit n digit 3 carry 1
+sub: result: digit j carry 0
+sub: digit 9 digit g carry 0
+sub: result: digit m carry 1
+sub: digit g digit j carry 1
+sub: result: digit p carry 1
+sub: digit p digit 9 carry 1
+sub: result: digit f carry 0
+sub: digit 0 digit 6 carry 0
+sub: result: digit n carry 1
+sub: digit r digit k carry 1
+sub: result: digit 6 carry 0
+sub: digit k digit n carry 0
+sub: result: digit q carry 1
+sub: digit b digit p carry 1
+sub: result: digit e carry 1
+sub: digit 7 digit l carry 1
+sub: result: digit e carry 1
+sub: digit l digit m carry 1
+sub: result: digit r carry 1
+sub: digit 4 digit b carry 1
+sub: result: digit l carry 1
+sub: digit l digit 7 carry 1
+sub: result: digit d carry 0
+sub: digit c digit k carry 0
+sub: result: digit l carry 1
+sub: digit 8 digit 8 carry 1
+sub: result: digit s carry 1
+sub: digit i digit 3 carry 1
+sub: result: digit e carry 0
+sub: digit 3 digit f carry 0
+sub: result: digit h carry 1
+sub: digit 9 digit 9 carry 1
+sub: result: digit s carry 1
+sub: digit g digit 1 carry 1
+sub: result: digit e carry 0
+sub: digit k digit b carry 0
+sub: result: digit 9 carry 0
+sub: digit 5 digit 5 carry 0
+sub: result: digit 0 carry 0
