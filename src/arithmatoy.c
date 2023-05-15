@@ -12,7 +12,7 @@ const size_t ALL_DIGIT_COUNT = 36;
 
 void arithmatoy_free(char *number) { free(number); }
 /*
-    AJOUTER LES FREEs     [_]
+    AJOUTER LES FREEs     [W] -- Calloc Passable ?
     Check Dyn alloc size  [_]
     Check Buff            [_]
 

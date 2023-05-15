@@ -6,7 +6,7 @@ from random import Random
 from _pytest.fixtures import FixtureRequest
 
 tests_count_per_base = 10
-cli_path = Path(".local/cmake/dist/bin/arithmatoy-cli")
+cli_path = Path("../.local/cmake/arithmatoy-cli")
 
 
 def test_add(
